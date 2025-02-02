@@ -67,8 +67,8 @@ Key Features of cordova build Compiles Code: Converts your HTML, CSS, and JavaSc
 
 ## Team Contributions
 - [Nandana M]: [team leader]
-- [Ananya M J]: [developer]
-- [Anjali A]: [developer]
+- [Ananya M J]: [ developer]
+- [Anjali A]: [ developer]
 
 ---
 Made with ❤ at TinkerHub
