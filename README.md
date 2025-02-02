@@ -1,4 +1,4 @@
-# Fisherman and coastal areas issue reporter🎯
+# Fishermen and coastal areas issue reporter🎯
 
 
 ## Basic Details
