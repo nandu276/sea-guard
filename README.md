@@ -46,19 +46,11 @@ github.com/asthra/a complaint reporting platform for fishermen community/edit/ma
 ### Technologies/Components Used
 For Software:
 - html
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-
-
 
 # Screenshots 
 ![WhatsApp Image 2025-02-02 at 09 16 56_fb1bdb8c](https://github.com/user-attachments/assets/64a24351-75e1-48c4-9b75-67702d2ed3b0)
 
 ![WhatsApp Image 2025-02-02 at 09 17 30_d56462fc](https://github.com/user-attachments/assets/0c90d32f-51ef-4cf2-b188-eea7b0ec2189)
-
-
 
 
 
